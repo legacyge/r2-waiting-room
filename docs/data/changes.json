@@ -1,0 +1,282 @@
+[
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#5f1608].fulfillmentMethod",
+    "old": null,
+    "new": "THROW_IN",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#5f1608].fulfillmentStatus",
+    "old": null,
+    "new": "RESERVED",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#5f1608].fulfillmentVendor",
+    "old": null,
+    "new": "RIVIAN",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#01471a].fulfillmentMethod",
+    "old": null,
+    "new": "THROW_IN",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#01471a].fulfillmentStatus",
+    "old": null,
+    "new": "RESERVED",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#01471a].fulfillmentVendor",
+    "old": null,
+    "new": "RIVIAN",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#cd8ca7].fulfillmentMethod",
+    "old": null,
+    "new": "THROW_IN",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#cd8ca7].fulfillmentStatus",
+    "old": null,
+    "new": "RESERVED",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentInfo.fulfillments[#cd8ca7].fulfillmentVendor",
+    "old": null,
+    "new": "RIVIAN",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentSummaryStatus",
+    "old": null,
+    "new": "READY_FOR_FULFILLMENT",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.items[#49fb8d].sku",
+    "old": null,
+    "new": "PROCSHQ0DS",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.items[#49fb8d].type",
+    "old": null,
+    "new": "ACCESSORIES",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.items[#6bac0d].sku",
+    "old": null,
+    "new": "PROCCTG7CO",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.items[#6bac0d].type",
+    "old": null,
+    "new": "ACCESSORIES",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.items[#95b4f2].sku",
+    "old": null,
+    "new": "PROC7DQTIG",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.items[#95b4f2].type",
+    "old": null,
+    "new": "ACCESSORIES",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.items[#bbc17f].sku",
+    "old": null,
+    "new": "R2",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.items[#bbc17f].type",
+    "old": null,
+    "new": "VEHICLE",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "orderFulfillment.state",
+    "old": null,
+    "new": "ORDERED",
+    "kind": "added",
+    "seen_at": "2026-11-07T17:22:57Z"
+  },
+  {
+    "path": "delivery.appointmentDetails.endDateTime",
+    "old": null,
+    "new": "2026-11-11T11:30:00",
+    "kind": "added",
+    "seen_at": "2026-11-01T14:46:50Z"
+  },
+  {
+    "path": "delivery.appointmentDetails.startDateTime",
+    "old": null,
+    "new": "2026-11-11T11:00:00",
+    "kind": "added",
+    "seen_at": "2026-11-01T14:46:50Z"
+  },
+  {
+    "path": "delivery.appointmentDetails.timeZone",
+    "old": null,
+    "new": "America/New_York",
+    "kind": "added",
+    "seen_at": "2026-11-01T14:46:50Z"
+  },
+  {
+    "path": "delivery.status",
+    "old": "INIT",
+    "new": "APPT_SCHEDULED",
+    "kind": "changed",
+    "seen_at": "2026-11-01T14:46:50Z"
+  },
+  {
+    "path": "delivery.carrier",
+    "old": null,
+    "new": "RIVIAN",
+    "kind": "added",
+    "seen_at": "2026-10-30T20:28:49Z"
+  },
+  {
+    "path": "delivery.status",
+    "old": null,
+    "new": "INIT",
+    "kind": "added",
+    "seen_at": "2026-10-30T20:28:49Z"
+  },
+  {
+    "path": "delivery.vehicleVIN",
+    "old": null,
+    "new": "7PD2EAAB9VN019•••",
+    "kind": "added",
+    "seen_at": "2026-10-30T20:28:49Z"
+  },
+  {
+    "path": "order.fulfillmentSummaryStatus",
+    "old": "PENDING_FULFILLMENT",
+    "new": "READY_FOR_FULFILLMENT",
+    "kind": "changed",
+    "seen_at": "2026-10-30T20:28:49Z"
+  },
+  {
+    "path": "vehicleOrders[0].fulfillmentSummaryStatus",
+    "old": "PENDING_FULFILLMENT",
+    "new": "READY_FOR_FULFILLMENT",
+    "kind": "changed",
+    "seen_at": "2026-10-30T20:28:49Z"
+  },
+  {
+    "path": "order.vehicle.make",
+    "old": null,
+    "new": "RIVIAN",
+    "kind": "added",
+    "seen_at": "2026-10-30T14:53:27Z"
+  },
+  {
+    "path": "order.vehicle.model",
+    "old": null,
+    "new": "R2",
+    "kind": "added",
+    "seen_at": "2026-10-30T14:53:27Z"
+  },
+  {
+    "path": "order.vehicle.modelYear",
+    "old": null,
+    "new": 2027,
+    "kind": "added",
+    "seen_at": "2026-10-30T14:53:27Z"
+  },
+  {
+    "path": "order.vehicle.vehicleId",
+    "old": null,
+    "new": "set",
+    "kind": "added",
+    "seen_at": "2026-10-30T14:53:27Z"
+  },
+  {
+    "path": "order.vehicle.vin",
+    "old": null,
+    "new": "7PD2EAAB9VN019•••",
+    "kind": "added",
+    "seen_at": "2026-10-30T14:53:27Z"
+  },
+  {
+    "path": "order.vehicleId",
+    "old": null,
+    "new": "set",
+    "kind": "changed",
+    "seen_at": "2026-10-30T14:53:27Z"
+  },
+  {
+    "path": "order.configurationStatus",
+    "old": null,
+    "new": "SOFT_LOCKED",
+    "kind": "added",
+    "seen_at": "2026-10-27T02:18:04Z"
+  },
+  {
+    "path": "order.fulfillmentSummaryStatus",
+    "old": null,
+    "new": "PENDING_FULFILLMENT",
+    "kind": "added",
+    "seen_at": "2026-10-27T02:18:04Z"
+  },
+  {
+    "path": "order.invitedToSelfConfigure",
+    "old": null,
+    "new": false,
+    "kind": "added",
+    "seen_at": "2026-10-27T02:18:04Z"
+  },
+  {
+    "path": "order.invitedToSelfConfirm",
+    "old": null,
+    "new": null,
+    "kind": "added",
+    "seen_at": "2026-10-27T02:18:04Z"
+  },
+  {
+    "path": "order.orderConfirmationType",
+    "old": null,
+    "new": "SELF_SERVE_LOCK",
+    "kind": "added",
+    "seen_at": "2026-10-27T02:18:04Z"
+  },
+  {
+    "path": "order.vehicleId",
+    "old": null,
+    "new": null,
+    "kind": "added",
+    "seen_at": "2026-10-27T02:18:04Z"
+  }
+]
