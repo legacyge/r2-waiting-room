@@ -1,35 +1,35 @@
 {
-  "orderIdLast4": "0332",
+  "orderIdLast4": "8109",
   "state": "ORDERED",
   "configurationStatus": "SOFT_LOCKED",
-  "fulfillmentSummaryStatus": "READY_FOR_FULFILLMENT",
+  "fulfillmentSummaryStatus": "PENDING_FULFILLMENT",
   "orderConfirmationType": "SELF_SERVE_LOCK",
   "invitedToSelfConfirm": null,
   "invitedToSelfConfigure": false,
-  "orderDate": "2026-03-08T02:42:10.515Z",
-  "configurationDate": "2026-09-22T15:19:20.497Z",
+  "orderDate": "2024-03-07T18:04:13.648Z",
+  "configurationDate": "2026-09-03T23:18:32.949Z",
   "agreementSignedAt": null,
   "windowText": null,
   "leaseStatus": null,
   "vehicleId": "set",
-  "vin": "7PD2EAAB9VN019•••",
+  "vin": "7PD2EAAB4VN013•••",
   "isPreparingPurchase": null,
-  "isConsumerFlowComplete": true,
+  "isConsumerFlowComplete": false,
   "steps": [],
   "delivery": {
-    "status": "APPT_SCHEDULED",
-    "carrier": "RIVIAN",
-    "appointmentStart": "2026-11-11T11:00:00",
-    "appointmentEnd": "2026-11-11T11:30:00",
-    "timeZone": "America/New_York"
+    "status": null,
+    "carrier": null,
+    "appointmentStart": null,
+    "appointmentEnd": null,
+    "timeZone": null
   },
   "vehicle": {
     "model": "R2",
     "modelYear": "2027",
     "build": "R2 Performance",
-    "exterior": "Forest Green",
-    "interior": "Coastal Cloud Signature",
-    "wheels": "20\" Black Sand All-Terrain",
+    "exterior": "Launch Green",
+    "interior": "Black Crater Signature",
+    "wheels": "21\" Liquid Tungsten All-Season",
     "battery": "Large",
     "motor": "Dual",
     "packages": [
@@ -37,7 +37,7 @@
       "Tow Package",
       "Autonomy+"
     ],
-    "configVersion": "R2C_2.4"
+    "configVersion": "R2C_2.3"
   },
   "buildDates": {
     "expectedBuildDate": null,
@@ -58,49 +58,9 @@
     "otaStatus": null,
     "locationKnown": false
   },
-  "fulfillments": [
-    {
-      "status": "RESERVED",
-      "method": "THROW_IN",
-      "vendor": "RIVIAN",
-      "trackingStatus": null,
-      "trackingCarrier": null,
-      "shipDate": null,
-      "deliveredDate": null,
-      "serviceType": null,
-      "windowStart": null,
-      "windowEnd": null
-    },
-    {
-      "status": "RESERVED",
-      "method": "THROW_IN",
-      "vendor": "RIVIAN",
-      "trackingStatus": null,
-      "trackingCarrier": null,
-      "shipDate": null,
-      "deliveredDate": null,
-      "serviceType": null,
-      "windowStart": null,
-      "windowEnd": null
-    },
-    {
-      "status": "RESERVED",
-      "method": "THROW_IN",
-      "vendor": "RIVIAN",
-      "trackingStatus": null,
-      "trackingCarrier": null,
-      "shipDate": null,
-      "deliveredDate": null,
-      "serviceType": null,
-      "windowStart": null,
-      "windowEnd": null
-    }
-  ],
+  "fulfillments": [],
   "pendingFulfillmentItems": 1,
   "itemStates": {
-    "PROCSHQ0DS": null,
-    "PROCCTG7CO": null,
-    "PROC7DQTIG": null,
     "R2": null
   }
 }
