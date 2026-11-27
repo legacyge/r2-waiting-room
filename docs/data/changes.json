@@ -1,5 +1,47 @@
 [
   {
+    "path": "delivery.carrier",
+    "old": null,
+    "new": "THIRD_PARTY",
+    "kind": "added",
+    "seen_at": "2026-11-27T18:44:56Z"
+  },
+  {
+    "path": "delivery.status",
+    "old": null,
+    "new": "INIT",
+    "kind": "added",
+    "seen_at": "2026-11-27T18:44:56Z"
+  },
+  {
+    "path": "delivery.vehicleVIN",
+    "old": null,
+    "new": "7PD2EAAB4VN013•••",
+    "kind": "added",
+    "seen_at": "2026-11-27T18:44:56Z"
+  },
+  {
+    "path": "order.fulfillmentSummaryStatus",
+    "old": "PENDING_FULFILLMENT",
+    "new": "READY_FOR_FULFILLMENT",
+    "kind": "changed",
+    "seen_at": "2026-11-27T18:44:56Z"
+  },
+  {
+    "path": "orderFulfillment.fulfillmentSummaryStatus",
+    "old": "PENDING_FULFILLMENT",
+    "new": "READY_FOR_FULFILLMENT",
+    "kind": "changed",
+    "seen_at": "2026-11-27T18:44:56Z"
+  },
+  {
+    "path": "vehicleOrders[0].fulfillmentSummaryStatus",
+    "old": "PENDING_FULFILLMENT",
+    "new": "READY_FOR_FULFILLMENT",
+    "kind": "changed",
+    "seen_at": "2026-11-27T18:44:56Z"
+  },
+  {
     "path": "orderFulfillment.fulfillmentInfo.fulfillments[#5f1608].fulfillmentMethod",
     "old": null,
     "new": "THROW_IN",
